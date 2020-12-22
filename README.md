@@ -1,4 +1,4 @@
-# GOAL-UI
+# --- GOAL-UI ---
 The site is created using HTML and CSS and the contents will give an short notes about goals and its types...
  
  # NOTE :
